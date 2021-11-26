@@ -72,4 +72,8 @@ The establishment will offer a University Bibliotheque or “CDI�
     <pattern>Why create this kind of institution</pattern>
     <template>To allow the public concerned to build their educational material and appropriate different methods that suit them. Our school is designed on the following principles and values: share, kindness, self-building, and knowledge  </template>
 </category>
+<category>
+    <pattern>How much costs the training</pattern>
+    <template>It will depend on the modules you want to follow. Just send an e-mail to the secretary to have a estimation of the price</template>
+</category>
 </aiml>
