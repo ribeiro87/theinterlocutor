@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Is it necessary to pass a test to enter our school </pattern>
+    <template>No, only motivation counts, no need to pass a test.</template>
+</category>
+<category>
+    <pattern>Where your institution is located </pattern>
+    <template>Near Lyon, it's a physical place, but you can have courses by distance.</template>
+</category>
+<category>
+    <pattern>maximum school capacity
+How much students can be registered</pattern>
+    <template>20 participants maximum to promote exchanges and not too many to allow a real personalization of the training and a real tailor-made follow-up </template>
+</category>
+<category>
+    <pattern>What type of training, certification or diploma </pattern>
+    <template>qualifying and / or certifying training according to the profile and status of the person (employee or not) </template>
+</category>
+<category>
+    <pattern>Public or private education/ teaching</pattern>
+    <template>Only private</template>
+</category>
+<category>
+    <pattern>Wich way your institution is financed</pattern>
+    <template>By public funds (the region) and private funds (large companies and / or associations/charity associations </template>
+</category>
+<category>
+    <pattern>Hello</pattern>
+    <template>Hi, How can I help you</template>
+</category>
+<category>
+    <pattern>What's the name of your institution</pattern>
+    <template>It's "The place to be the trainer you ever wanted"</template>
+</category>
+<category>
+    <pattern>For whom is this school</pattern>
+    <template>for anyone wishing to improve their knowledge and teaching methods.</template>
+</category>
+<category>
+    <pattern>Would the training offer allow the student to become a teacher in a private school practicing positive pedagogy, the Montessori method or other socioconstructivist methods</pattern>
+    <template>The students will be able to familiarize themselves with these different techniques and also chose the modules they want to have in their cursus</template>
+</category>
+<category>
+    <pattern>What organization within the institution, by level</pattern>
+    <template>it is not a question of level but of acquiring knowledge and methods à la carte </template>
+</category>
+<category>
+    <pattern>Which trainers could enter your institution
+Those who no longer feel in tune with current pedagogy</pattern>
+    <template>people in the health, social and / or medico-social professions who wish to teach their professions and who need educational tools to to be able to do it 
+But also everyone who wants to share their knowledge with others</template>
+</category>
+<category>
+    <pattern>What kind of institution</pattern>
+    <template>A training institution for trainers or teachers </template>
+</category>
+<category>
+    <pattern>For Whom the institution is</pattern>
+    <template>The concerned public will be professionals wishing to become trainers or students to be a teacher. Experienced teachers wishing to update or evolve in their teaching techniques by acquiring new tools and new competencies.  </template>
+</category>
+<category>
+    <pattern>Where your institution will be</pattern>
+    <template>A physical place for face-to-face lessons because we believe that interaction between people is formative and constructive. It was also considered the need for e-learning for more accessibility and adaptability.  
+The establishment will offer a University Bibliotheque or “CDI” available as well as rooms for courses and rooms allowing trainers to carry out distance tutoring.  </template>
+</category>
+<category>
+    <pattern>Why create this kind of institution</pattern>
+    <template>To allow the public concerned to build their educational material and appropriate different methods that suit them. Our school is designed on the following principles and values: share, kindness, self-building, and knowledge  </template>
+</category>
+</aiml>
